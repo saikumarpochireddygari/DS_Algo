@@ -27,7 +27,7 @@ def partion(arr,p,r):
 
 if __name__ == '__main__':
     #test_array
-    test_array = [98, 108, 93, 17, 109, 31, 44, 55]
+    test_array = [98, 108, 93, 17, 109, 31, 44, 12]
     #function call
     quicksort(test_array, 0, len(test_array)-1 )
     print(test_array)
