@@ -29,7 +29,7 @@ def mergeSort(arr):
         merge(arr, left,right)
 
 
-arr=[54, 26, 93, 17, 77, 31, 44, 55]    
+arr=[54, 26, 93, 17, 77, 31, 44, 55, 1]    
 
 mergeSort(arr)
 
